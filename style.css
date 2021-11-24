@@ -1,0 +1,11 @@
+li
+{
+    list-style: none;
+}
+body{
+    background-image: url("fond_plaine.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:burlywood;
+}
